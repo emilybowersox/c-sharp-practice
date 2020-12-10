@@ -8,6 +8,8 @@ namespace Hello_World
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello Emily!");
+            Console.WriteLine("Can I push from the terminal now?");
+            Console.WriteLine("I want to commit");
         }
     }
 }
