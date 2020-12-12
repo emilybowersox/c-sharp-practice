@@ -39,6 +39,7 @@ namespace Hello_World
         public static void Main(string[] args)
         {
             age = 20;
+            int myNumber = 13;
 
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello Emily!");
@@ -46,6 +47,8 @@ namespace Hello_World
             Console.WriteLine("I want to commit");
             Console.WriteLine(age);
             Console.WriteLine(myAge);
+            Console.WriteLine(myNumber);
+            Console.WriteLine(myName);
 
         }
     }
